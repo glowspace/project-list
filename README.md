@@ -29,4 +29,4 @@ Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose.
 ### Biblické souřadnice
 | Repozitář | Popis | Technologie |
 | ------------- | ------------- | ------------- |
-| [proscholy/bible-reference(https://github.com/proscholy/bible-reference) | | |
+| [proscholy/bible-reference](https://github.com/proscholy/bible-reference) | | |
