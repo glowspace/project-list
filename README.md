@@ -22,7 +22,7 @@ Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose.
 
 ## Liturgický kalendář
 
-### Igneus - liturgický kalendář
+### Igneus
 | Repozitář | Popis | Technologie |
 | ------------- | ------------- | ------------- |
 | [igneus/church-calendar-api](https://github.com/igneus/church-calendar-api) ||| 
