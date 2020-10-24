@@ -38,3 +38,8 @@ https://github.com/jridky/kancional-server
 | Repozitář | Popis | Technologie |
 | ------------- | ------------- | ------------- |
 | [proscholy/bible-reference](https://github.com/proscholy/bible-reference) | Parsování biblických souřadnic z plaintextu do strukturované podoby | Javascript |
+
+## Organizace táborů, víkendů a akcí
+| Repozitář | Popis | Technologie |
+| ------------- | ------------- | ------------- |
+| [michaeldojcar/monkey-planner](https://github.com/michaeldojcar/monkey-planner) | Open source plánovač akcí, zodpovědností, rolí | Laravel, MySQL |
