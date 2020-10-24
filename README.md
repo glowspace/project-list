@@ -22,6 +22,9 @@ Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose. Gr
 ### LilyPond noty
 https://github.com/jirihon/lilypond-scores
 
+### Kancionál server
+https://github.com/jridky/kancional-server
+
 ## Liturgický kalendář
 
 ### Igneus
