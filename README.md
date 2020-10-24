@@ -47,7 +47,8 @@ Aplikace pro plánování táborů, duchovních obnov, větších akcí.
 | [michaeldojcar/monkey-planner](https://github.com/michaeldojcar/monkey-planner) | Open source plánovač akcí, úkolů, zodpovědností, rolí | Laravel, MySQL |
 
 ### Proprierátní systémy
-Cidas (od Sekce pro mládež ČBK a signály.cz). Přihlašování na akce, stravování, ubytování, statistiky, možnost přizpůsobení formulářů podle akce, wordpress a joomla plugin, aktuálně není veřejně dostupný, ale lze kontaktovat na webu https://cidas.cz/.
+#### Cidas
+Autor: Sekce pro mládež ČBK a signály.cz. Systém pro přihlašování na akce, stravování, ubytování, statistiky, možnost přizpůsobení formulářů podle akce, wordpress a joomla plugin, aktuálně není veřejně dostupný, ale lze kontaktovat na webu https://cidas.cz/.
 
 ### Digitální táborové hry
 | Repozitář | Popis | Technologie |
