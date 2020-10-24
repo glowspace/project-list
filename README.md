@@ -4,7 +4,7 @@ Seznam křesťanských IT projektů. Seznam obsahuje i projekty, na kterých nep
 ## Duchovní hudba
 ###Kancional.cz
 
-###Projekt ProScholy.cz
+### Projekt ProScholy.cz
 Projekt členů Musica Sacra: zázemí pro křesťanské hudebníky a lidi, kteří se chtějí modlit hudbou. V rámci projektu vzniká několik aplikací:
 
 Zpěvník ProScholy pro web
