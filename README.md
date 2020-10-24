@@ -1,4 +1,4 @@
-# Seznam digitálních projektů
+# Křesťanské open-source projekty
 Seznam křesťanských IT projektů. Seznam obsahuje i projekty, na kterých nepracují členové Glow Space, ale stojí za to o nich vědět. 
 Projekty jsou open-source dostupné, pokud není uvedeno jinak.
 
@@ -24,3 +24,9 @@ Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose.
 | ------------- | ------------- | ------------- |
 | [igneus/church-calendar-api](https://github.com/igneus/church-calendar-api) ||| 
 | [igneus/calendarium-romanum](https://github.com/igneus/calendarium-romanum) |||
+
+## Bible
+### Biblické souřadnice
+| Repozitář | Popis | Technologie |
+| ------------- | ------------- | ------------- |
+| [proscholy/bible-reference(https://github.com/proscholy/bible-reference) | | |
