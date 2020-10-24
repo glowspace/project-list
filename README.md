@@ -39,6 +39,10 @@ https://github.com/jridky/kancional-server
 | ------------- | ------------- | ------------- |
 | [proscholy/bible-reference](https://github.com/proscholy/bible-reference) | Parsování biblických souřadnic z plaintextu do strukturované podoby | Javascript |
 
+## Správa farnosti
+### IS Omnia - Agenda farnosti (proprietární)
+ERP systém pro kompletní digitální správu farnosti. Oficiální web: https://www.agendafarnosti.cz/
+
 ## Organizace akcí
 Aplikace pro plánování a organizaci akcí, táborů, duchovních obnov.
 
