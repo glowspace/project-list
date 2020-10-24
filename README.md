@@ -39,12 +39,15 @@ https://github.com/jridky/kancional-server
 | ------------- | ------------- | ------------- |
 | [proscholy/bible-reference](https://github.com/proscholy/bible-reference) | Parsování biblických souřadnic z plaintextu do strukturované podoby | Javascript |
 
-## Plánování akcí
+## Organizace akcí
 Aplikace pro plánování táborů, duchovních obnov, větších akcí.
 
 | Repozitář | Popis | Technologie |
 | ------------- | ------------- | ------------- |
 | [michaeldojcar/monkey-planner](https://github.com/michaeldojcar/monkey-planner) | Open source plánovač akcí, úkolů, zodpovědností, rolí | Laravel, MySQL |
+
+### Proprierátní systémy
+Cidas (od Sekce pro mládež ČBK a signály.cz). Přihlašování na akce, stravování, ubytování, statistiky, možnost přizpůsobení formulářů podle akce, wordpress a joomla plugin, aktuálně není veřejně dostupný, ale lze kontaktovat na webu https://cidas.cz/.
 
 ### Digitální táborové hry
 | Repozitář | Popis | Technologie |
