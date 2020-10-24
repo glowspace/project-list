@@ -17,8 +17,10 @@ Seznam křesťanských IT projektů. Projekty jsou open-source dostupné, pokud 
 | [proscholy/proscholy-ios](https://github.com/proscholy/proscholy-ios)    | iOS aplikace [Regenschori.cz](https://apps.apple.com/us/app/zp%C4%9Bvn%C3%ADk-pro-scholy/id1475375453#?platform=iphone)         | Swift |
 | [proscholy/proscholy-projekce](https://github.com/proscholy/proscholy-projekce)    | Webová projekce textu Projekce.proscholy.cz (alfa verze) | Laravel, WebSockets |
 
-Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose.
+Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose. GraphQL playground je dostupný na https://zpevnik.proscholy.cz/graphql-playground.
 
+### LilyPond noty
+https://github.com/jirihon/lilypond-scores
 
 ## Liturgický kalendář
 
