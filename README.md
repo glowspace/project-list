@@ -11,20 +11,16 @@ Projekty jsou open-source dostupné, pokud není uvedeno jinak.
 | [proscholy/proscholy-web](https://github.com/proscholy/proscholy-web)      | FE aplikace [Zpěvník pro scholy](https://zpevnik.proscholy.cz) | Nuxt.js, Bit.dev |
 | [proscholy/regenschori-web](https://github.com/proscholy/regenschori-web)    | FE aplikace [Regenschori.cz](https://regenschori.cz)         | Nuxt.js, Bit.dev |
 | [proscholy/proscholy-android](https://github.com/proscholy/proscholy-android) | Android aplikace  [Zpěvník pro scholy](https://play.google.com/store/apps/details?id=jozkar.mladez)         | Java |
-| [proscholy/regenschori-web](https://github.com/proscholy/regenschori-web)    | iOS aplikace [Regenschori.cz](https://regenschori.cz)         | Nuxt.js, Bit.dev |
+| [proscholy/proscholy-ios](https://github.com/proscholy/proscholy-ios)    | iOS aplikace [Regenschori.cz](https://apps.apple.com/us/app/zp%C4%9Bvn%C3%ADk-pro-scholy/id1475375453#?platform=iphone)         | Swift |
+| [proscholy/proscholy-projekce](https://github.com/proscholy/proscholy-projekce)    | web projekce textu Projekce.proscholy.cz (alfa verze) | Laravel, WebSockets |
 
-Projekt členů Musica Sacra: zázemí pro křesťanské hudebníky a lidi, kteří se chtějí modlit hudbou. V rámci projektu vzniká několik aplikací:
+Repozitáře ProScholy jsou dockerizované a lze je spustit s docker-compose.
 
-Zpěvník ProScholy pro web
-
-Regenschori.cz (web aplikace v Nuxt.js)
-
-API.regenschori.cz (GraphQL API server, Laravel)
 
 ## Liturgický kalendář
-API pro liturgický kalendář
 
-Igneus/church-calendar-api https://github.com/igneus/church-calendar-api
-Igneus/calendarium-romanum https://github.com/igneus/calendarium-romanum
-
-
+### Igneus - liturgický kalendář
+| Repozitář                                                                  | Popis                                                          | Technologie                     |
+| ------------- | ------------- | ------------- |
+| [igneus/church-calendar-api](https://github.com/igneus/church-calendar-api) ||| 
+| [igneus/calendarium-romanum](https://github.com/igneus/calendarium-romanum) |||
