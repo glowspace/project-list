@@ -1,7 +1,7 @@
 <img src="https://glowspace.cz/wp-content/uploads/2020/10/gs-grad-transparent-2.png" alt="drawing" width="200" style="float:right"/>
 
 # Křesťanské digitální projekty
-Seznam křesťanských IT projektů. Projekty jsou open-source dostupné, pokud není uvedeno jinak.
+Seznam křesťanských IT projektů vznikajících v ČR. Projekty jsou open-source dostupné, pokud není uvedeno jinak.
 
 :warning: **Seznam obsahuje i projekty, na kterých nepracují členové Glow Space,** ale stojí za to o nich vědět.
 
