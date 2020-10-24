@@ -39,7 +39,15 @@ https://github.com/jridky/kancional-server
 | ------------- | ------------- | ------------- |
 | [proscholy/bible-reference](https://github.com/proscholy/bible-reference) | Parsování biblických souřadnic z plaintextu do strukturované podoby | Javascript |
 
-## Organizace táborů, víkendů a akcí
+## Plánování akcí
+Aplikace pro plánování táborů, duchovních obnov, větších akcí.
+
 | Repozitář | Popis | Technologie |
 | ------------- | ------------- | ------------- |
-| [michaeldojcar/monkey-planner](https://github.com/michaeldojcar/monkey-planner) | Open source plánovač akcí, zodpovědností, rolí | Laravel, MySQL |
+| [michaeldojcar/monkey-planner](https://github.com/michaeldojcar/monkey-planner) | Open source plánovač akcí, úkolů, zodpovědností, rolí | Laravel, MySQL |
+
+### Digitální táborové hry
+| Repozitář | Popis | Technologie |
+| ------------- | ------------- | ------------- |
+| [michaeldojcar/live-rpg-game](https://github.com/michaeldojcar/live-rpg-game) | Živá RPG hra s questy - postavy mají mobilní rozhraní a udržují si informace o hráčích, jejich rozehrané questy, polohu hráčů atd. | Laravel, Vue.js, MySQL |
+
