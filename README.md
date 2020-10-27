@@ -2,6 +2,7 @@
 
 # Křesťanské digitální projekty
 Seznam křesťanských IT projektů vznikajících v ČR. Projekty jsou open-source dostupné, pokud není uvedeno jinak.
+Seznam udržujeme v rámci křesťanské vývojářské komunity [Glow Space](https://glowspace.cz).
 
 :warning: **Seznam obsahuje i projekty, na kterých nepracují členové Glow Space,** ale stojí za to o nich vědět.
 
