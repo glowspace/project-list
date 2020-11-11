@@ -6,6 +6,12 @@ Seznam udržujeme v rámci křesťanské vývojářské komunity [Glow Space](ht
 
 :warning: **Seznam obsahuje i projekty, na kterých nepracují členové Glow Space,** ale stojí za to o nich vědět.
 
+## Přímé přenosy
+| Repozitář                                                                  | Popis                                                          | Technologie                     |
+| ------------- | ------------- | ------------- |
+|[mseonline.cz](mseonline.cz)   | Seznam mší svatých vysílaných online | ? |
+
+
 ## Křesťanská hudba
 
 ### Projekt ProScholy.cz
