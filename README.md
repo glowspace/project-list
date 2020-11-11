@@ -9,7 +9,7 @@ Seznam udržujeme v rámci křesťanské vývojářské komunity [Glow Space](ht
 ## Přímé přenosy
 | Repozitář                                                                  | Popis                                                          | Technologie                     |
 | ------------- | ------------- | ------------- |
-|[mseonline.cz](mseonline.cz)   | Seznam mší svatých vysílaných online | ? |
+|[mseonline.cz](https://mseonline.cz)   | Seznam mší svatých vysílaných online | ? |
 
 
 ## Křesťanská hudba
