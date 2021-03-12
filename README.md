@@ -69,7 +69,7 @@ Aplikace pro plánování a organizaci akcí, táborů, duchovních obnov.
 Sekce pro mládež ČBK a signály.cz. Systém pro přihlašování na akce, stravování, ubytování, statistiky, možnost přizpůsobení formulářů podle akce, wordpress a joomla plugin, aktuálně není veřejně dostupný, ale lze kontaktovat na webu https://cidas.cz/.
 | Repozitář                                                                  | Popis                                                          | Technologie                     |
 | ------------- | ------------- | ------------- |
-|  |   | PostgreSQL, WSDL, php, Joomla |
+| PRIVATE |[cidas.cz](https://cidas.cz)  | PostgreSQL, WSDL, php, Joomla |
 
 ### Digitální táborové hry
 | Repozitář | Popis | Technologie |
